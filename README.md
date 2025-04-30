@@ -38,4 +38,4 @@ The chatbot will be available at `http://localhost:5000`. Open this URL in your 
 - `app.py` - Main Flask application
 - `templates/index.html` - Frontend interface
 - `requirements.txt` - Python dependencies
-- `.env` - Environment variables (create this file) 
+- `.env` - Environment variables (create this file)  
